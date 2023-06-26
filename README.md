@@ -1,1 +1,1 @@
-# power-bi-sales-dashboad-
+# hr-dashboad-powerbi
